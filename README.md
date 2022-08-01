@@ -16,5 +16,3 @@ DIA 5: Nesse dia, o seu objetivo será criar e publicar no repositório um commi
 DIA 6: Hoje você vai lidar com conflitos. Inicialmente, forçaremos commits a partir de duas fontes diferentes. O seu desafio será resolver esse conflito e fazer um commit do resultado do seu merge.
 
 DIA 7: No sétimo e último dia do desafio, você irá colocar o seu projeto em produção usando o GitHub Pages do próprio GitHub. Você irá fechar com chave de ouro!
-
-I
